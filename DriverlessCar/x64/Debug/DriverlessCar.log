@@ -1,0 +1,90 @@
+﻿  car.cpp
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\car.cpp(76,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\car.cpp(76,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\car.cpp(76,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\car.cpp(76,10): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\car.cpp(77,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\car.cpp(77,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\car.cpp(77,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\car.cpp(77,10): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\car.cpp(78,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\car.cpp(78,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\car.cpp(78,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\car.cpp(78,10): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\car.cpp(79,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\car.cpp(79,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\car.cpp(79,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\car.cpp(79,10): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\car.cpp(86,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\car.cpp(86,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\car.cpp(86,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\car.cpp(87,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\car.cpp(87,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\car.cpp(87,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\car.cpp(88,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\car.cpp(88,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\car.cpp(88,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\car.cpp(89,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\car.cpp(89,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\car.cpp(89,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  main.cpp
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\main.cpp(74,20): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\main.cpp(74,12): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+  planning_base.cpp
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\planning_base.cpp(10,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\planning_base.cpp(10,14): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  road.cpp
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(15,42): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(15,27): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(15,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(15,7): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(16,44): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(16,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(16,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(16,7): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(34,42): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(34,27): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(34,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(34,7): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(35,44): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(35,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(35,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(35,7): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(36,47): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(36,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(36,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(36,7): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(37,49): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(37,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(37,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(37,7): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(50,48): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(50,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(50,25): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(50,13): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(66,42): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(66,27): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(66,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(66,7): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(67,44): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(67,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(67,23): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(67,7): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(70,40): warning C4244: “参数”: 从“const double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(70,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(70,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\road.cpp(70,14): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  scene_base.cpp
+  scene_drift.cpp
+  scene_obs_pass.cpp
+  scene_park.cpp
+  scene_straight.cpp
+  traffic.cpp
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\traffic.cpp(10,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\traffic.cpp(10,35): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\traffic.cpp(10,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\traffic.cpp(25,39): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\traffic.cpp(25,34): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\VSWorkSpace\wurenxiaoche\DriverlessCar\traffic.cpp(25,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  DriverlessCar.vcxproj -> D:\VSWorkSpace\wurenxiaoche\DriverlessCar\x64\Debug\DriverlessCar.exe

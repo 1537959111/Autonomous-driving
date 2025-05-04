@@ -1,0 +1,382 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|solutionrelative:car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\scene_base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|solutionrelative:scene_base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\planning_base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|solutionrelative:planning_base.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\scene_drift.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|solutionrelative:scene_drift.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\planning_base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|solutionrelative:planning_base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\scene_base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|solutionrelative:scene_base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|solutionrelative:car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\scene_drift.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|solutionrelative:scene_drift.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|solutionrelative:main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\traffic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|solutionrelative:traffic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\scene_park.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|solutionrelative:scene_park.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\road.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|solutionrelative:road.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\road.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|solutionrelative:road.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\scene_park.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|solutionrelative:scene_park.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\traffic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|solutionrelative:traffic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\scene_obs_pass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|solutionrelative:scene_obs_pass.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\scene_obs_pass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|solutionrelative:scene_obs_pass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\scene_straight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|solutionrelative:scene_straight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\scene_straight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49DB0876-705C-46BB-8F80-142A11306E80}|DriverlessCar.vcxproj|solutionrelative:scene_straight.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "traffic.h",
+              "DocumentMoniker": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\traffic.h",
+              "RelativeDocumentMoniker": "traffic.h",
+              "ToolTip": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\traffic.h",
+              "RelativeToolTip": "traffic.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-24T12:57:04.716Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "traffic.cpp",
+              "DocumentMoniker": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\traffic.cpp",
+              "RelativeDocumentMoniker": "traffic.cpp",
+              "ToolTip": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\traffic.cpp",
+              "RelativeToolTip": "traffic.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-24T12:59:52.823Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "road.h",
+              "DocumentMoniker": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\road.h",
+              "RelativeDocumentMoniker": "road.h",
+              "ToolTip": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\road.h",
+              "RelativeToolTip": "road.h",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-24T12:54:56.87Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "road.cpp",
+              "DocumentMoniker": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\road.cpp",
+              "RelativeDocumentMoniker": "road.cpp",
+              "ToolTip": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\road.cpp",
+              "RelativeToolTip": "road.cpp",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAEAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-24T13:02:12.59Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "scene_base.h",
+              "DocumentMoniker": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\scene_base.h",
+              "RelativeDocumentMoniker": "scene_base.h",
+              "ToolTip": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\scene_base.h",
+              "RelativeToolTip": "scene_base.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-24T12:55:37.825Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "scene_base.cpp",
+              "DocumentMoniker": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\scene_base.cpp",
+              "RelativeDocumentMoniker": "scene_base.cpp",
+              "ToolTip": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\scene_base.cpp",
+              "RelativeToolTip": "scene_base.cpp",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAgwOUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-24T13:03:12.152Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "scene_straight.h",
+              "DocumentMoniker": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\scene_straight.h",
+              "RelativeDocumentMoniker": "scene_straight.h",
+              "ToolTip": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\scene_straight.h",
+              "RelativeToolTip": "scene_straight.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-24T12:56:41.293Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "scene_straight.cpp",
+              "DocumentMoniker": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\scene_straight.cpp",
+              "RelativeDocumentMoniker": "scene_straight.cpp",
+              "ToolTip": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\scene_straight.cpp",
+              "RelativeToolTip": "scene_straight.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-24T13:03:43.256Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "main.h",
+              "DocumentMoniker": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\main.h",
+              "RelativeDocumentMoniker": "main.h",
+              "ToolTip": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\main.h",
+              "RelativeToolTip": "main.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-24T12:57:30.536Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAD4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-24T13:04:05.907Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "car.h",
+              "DocumentMoniker": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\car.h",
+              "RelativeDocumentMoniker": "car.h",
+              "ToolTip": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\car.h",
+              "RelativeToolTip": "car.h",
+              "ViewState": "AgIAAEIAAAAAAAAAAADwv0kAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-24T12:39:25.981Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "car.cpp",
+              "DocumentMoniker": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\car.cpp",
+              "RelativeDocumentMoniker": "car.cpp",
+              "ToolTip": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\car.cpp",
+              "RelativeToolTip": "car.cpp",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAQwFsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-24T12:58:29.355Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "planning_base.h",
+              "DocumentMoniker": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\planning_base.h",
+              "RelativeDocumentMoniker": "planning_base.h",
+              "ToolTip": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\planning_base.h",
+              "RelativeToolTip": "planning_base.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-24T12:39:28.825Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "planning_base.cpp",
+              "DocumentMoniker": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\planning_base.cpp",
+              "RelativeDocumentMoniker": "planning_base.cpp",
+              "ToolTip": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\planning_base.cpp",
+              "RelativeToolTip": "planning_base.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-27T14:06:13.401Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "scene_obs_pass.cpp",
+              "DocumentMoniker": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\scene_obs_pass.cpp",
+              "RelativeDocumentMoniker": "scene_obs_pass.cpp",
+              "ToolTip": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\scene_obs_pass.cpp",
+              "RelativeToolTip": "scene_obs_pass.cpp",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAAAOcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-05T11:20:41.454Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "scene_obs_pass.h",
+              "DocumentMoniker": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\scene_obs_pass.h",
+              "RelativeDocumentMoniker": "scene_obs_pass.h",
+              "ToolTip": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\scene_obs_pass.h",
+              "RelativeToolTip": "scene_obs_pass.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAewA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-05T11:20:17.286Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "scene_drift.h",
+              "DocumentMoniker": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\scene_drift.h",
+              "RelativeDocumentMoniker": "scene_drift.h",
+              "ToolTip": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\scene_drift.h",
+              "RelativeToolTip": "scene_drift.h",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-08T08:43:57.253Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "scene_drift.cpp",
+              "DocumentMoniker": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\scene_drift.cpp",
+              "RelativeDocumentMoniker": "scene_drift.cpp",
+              "ToolTip": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\scene_drift.cpp",
+              "RelativeToolTip": "scene_drift.cpp",
+              "ViewState": "AgIAAF0AAAAAAAAAAADwv3cAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-08T08:44:33.389Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "scene_park.cpp",
+              "DocumentMoniker": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\scene_park.cpp",
+              "RelativeDocumentMoniker": "scene_park.cpp",
+              "ToolTip": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\scene_park.cpp",
+              "RelativeToolTip": "scene_park.cpp",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAAALYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T14:29:21.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "scene_park.h",
+              "DocumentMoniker": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\scene_park.h",
+              "RelativeDocumentMoniker": "scene_park.h",
+              "ToolTip": "D:\\VSWorkSpace\\wurenxiaoche\\DriverlessCar\\scene_park.h",
+              "RelativeToolTip": "scene_park.h",
+              "ViewState": "AgIAABYAAAAAAAAAAAAewCQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-06T14:29:00.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
